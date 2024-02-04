@@ -1,0 +1,10 @@
+<div class="home__container">
+  <app-card
+  *ngFor="let game of games"
+  id="{{game.id}}"
+  gameCover="{{game.gameCover}}"
+  gameLabel="{{game.gameLabel}}"
+  gameType="{{game.gameType}}"
+  gamePrice="{{game.gamePrice}}"
+  ></app-card>
+</div>

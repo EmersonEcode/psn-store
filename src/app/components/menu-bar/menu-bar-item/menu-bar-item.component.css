@@ -1,0 +1,28 @@
+.menu-bar__item{
+  margin: auto 0;
+
+}
+.menu-bar__item > ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.menu-bar__item  ul > li{
+  margin-inline: 10px;
+
+}
+
+.menu-bar__item ul li > a{
+  text-decoration: none;
+  color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 20px;
+}
+.menu-bar__item ul li > a:hover{
+  color: #0070d1;
+  font-weight: 600;
+}
+

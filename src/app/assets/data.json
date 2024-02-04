@@ -1,0 +1,32 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "gameCover": "https://upload.wikimedia.org/wikipedia/pt/1/10/Battlefield_5_capa.png",
+      "gameLabel": "EXCLUSIVE",
+      "gameType": "Digital PS4",
+      "gamePrice": "299,90"
+    },
+    {
+      "id": 2,
+      "gameCover": "https://upload.wikimedia.org/wikipedia/pt/8/84/Battlefield_4_capa.png",
+      "gameLabel": "Digital",
+      "gameType": "PS3 | PS4",
+      "gamePrice": "R$ 199,90"
+    },
+    {
+      "id": 3,
+      "gameCover": "https://sm.ign.com/t/ign_br/screenshot/default/tgeedeps42dpftfront-us_mz7r.1080.png",
+      "gameLabel": "EXCLUSIVE",
+      "gameType": "PS3 | PS4 | PS5",
+      "gamePrice": "R$ 199,90"
+    },
+    {
+      "id": 4,
+      "gameCover": "https://upload.wikimedia.org/wikipedia/pt/1/1f/Battlefield_2042_capa.jpg",
+      "gameLabel": "NEW",
+      "gameType": "digital PS4 | PS5",
+      "gamePrice": "R$ 399,90"
+    }
+  ]
+}
