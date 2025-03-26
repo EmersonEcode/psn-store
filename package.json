@@ -1,6 +1,7 @@
 {
   "name": "psn-store",
   "version": "0.0.0",
+  "homepage": "https://EmersonEcode.github.io/psn-store",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

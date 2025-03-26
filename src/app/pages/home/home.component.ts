@@ -16,7 +16,6 @@ export class HomeComponent implements OnInit {
   ngOnInit(): void{
     if(gamesData){
       this.games = gamesData.games
-      console.log(this.games)
     }
   }
 }
